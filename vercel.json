@@ -1,0 +1,9 @@
+{
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/welcome.html"
+    }
+  ]
+}
